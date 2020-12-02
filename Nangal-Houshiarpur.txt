@@ -1,0 +1,4 @@
+21	Magan
+1	Florian	50
+15	vivies	750
+2	Kulpreet	100

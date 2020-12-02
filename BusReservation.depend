@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524234144 source:c:\users\magan\onedrive\documents\c files\busreservation\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstring>
+

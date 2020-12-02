@@ -1,0 +1,13 @@
+1 Nangal-Chandigarh Morning 5:00am 100
+2 Ludhiana-Rajpura Evening 6:30pm 95
+3 Kharar-Una Evening 5:00am 110
+4 Fatehgarh-Nangal Morning 10:00am 70
+5 Banur-Kharar Afternoon 4:00pm 25
+6 Ropar-Nangal Evening 7:00pm 45
+7 Chandigarh-Palampur Evening 6:00pm 250
+8 Hamirpur-Chandigarh Morning 4:30am 120
+9 Amritsar-Nangal Morning 6:00am 90
+19 Nangal-Houshiarpur Morning 9:00am 50
+18 Kharar-Ambala Morning 7:00am 30
+17 Ludhiana-Jalandhar Morning 10:00am 20 
+21 Ropar-Mohali Morning 10:00am 60

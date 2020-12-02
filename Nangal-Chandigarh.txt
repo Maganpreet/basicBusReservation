@@ -1,0 +1,2 @@
+1	Priyanka	100
+2	Ris	200
